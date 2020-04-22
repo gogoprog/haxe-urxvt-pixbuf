@@ -6,7 +6,6 @@ class Pixbuf {
 
     public static function draw(path:String, x:Int, y:Int, width:Int, height:Int) {
         var fullPath = sys.FileSystem.absolutePath(path);
-        trace(fullPath);
         Sys.stdout().writeString(
             displayProtocol
             + fullPath
