@@ -1,0 +1,3 @@
+-cp src
+-python build/test.py
+-main test.Test
