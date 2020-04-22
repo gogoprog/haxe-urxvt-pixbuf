@@ -4,7 +4,7 @@ Helper to interact with urxvt pixbuf
 
 ## Demo
 
-![Image](https://gogoprog.github.io/haxe-urxvt-pixbuf/res/demo.gif)
+![Image](https://github.com/gogoprog/haxe-urxvt-pixbuf/raw/master/res/demo.gif)
 
 ## Documentation
 
