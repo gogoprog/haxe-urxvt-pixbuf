@@ -2,10 +2,10 @@ package test;
 
 class Test {
     static function main() {
-        urxvt.Pixbuf.draw("./res/trees.jpg", 30, 20, 40, 40);
+        urxvt.Pixbuf.draw("./res/trees.jpg", 60, 40, 50, 60);
         haxe.Timer.delay(function() {
             urxvt.Pixbuf.clear();
         }
-        , 1000);
+        , 3000);
     }
 }
