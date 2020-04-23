@@ -14,15 +14,14 @@ package `urxvt`
 
 #### Static methods
 
-##### `static function draw(path:String, x:Int, y:Int, width:Int, height:Int)`
-
-Draw the image located at `path` using coordinates `x, y` and size `width`x`height`.
-Coordinates and size are expressed in percentages.
+```haxe
+static function draw(path:String, x:Int, y:Int, width:Int, height:Int)
+    // Draw the image located at `path` using coordinates `x, y` and size `width`x`height`.
+    // Coordinates and size are expressed in percentages.
   
-##### `static function clear()`
-
-Clear the pixel buffer.
-
+static function clear()
+    // Clear the pixel buffer.
+```
 ## Example
 
 ```haxe
