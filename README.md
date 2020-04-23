@@ -16,7 +16,7 @@ package `urxvt`
 
 ```haxe
 static function draw(path:String, x:Int, y:Int, width:Int, height:Int)
-    // Draw the image located at `path` using coordinates `x, y` and size `width`x`height`.
+    // Draw the image located at `path` using coordinates (x, y) and size width*height.
     // Coordinates and size are expressed in percentages.
   
 static function clear()
