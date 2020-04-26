@@ -1,0 +1,11 @@
+{
+	"name": "urxvt-pixbuf",
+	"classPath": "src",
+	"url" : "https://github.com/gogoprog/haxe-urxvt-pixbuf/",
+	"license": "MIT",
+	"tags": ["js", "urxvt", "rxvt", "pixbuf", "draw", "image"],
+	"description": "Helper to interact with urxvt pixbuf",
+	"version": "0.1.0",
+	"releasenote": "",
+	"contributors": ["gogoprog"]
+}
